@@ -2,7 +2,7 @@ url: https://yangjiera.github.io
 baseurl: /citrec2017/
 
 # Site settings
-title: #CitRec2017
+title: CitRec2017
 email: j.yang-3@tudelft.nl
 description: "ACM RecSys 2017 Workshop: International Workshop on Recommender Systems for Citizens."
 
@@ -12,48 +12,36 @@ people:
 - name: Jie Yang
   pic: 1
   position: Delft University of Technology
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  email: j.yang-3[at]tudelft.nl
 
-- name: Larry Parker
+
+- name: Zhu Sun
   pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  position: Nanyang Technological University
+  email: sunzhu[at]ntu.edu.sg
 
-- name: Diana Petersen
+- name: Alessandro Bozzon
   pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  position: Delft University of Technology
+  email: a.bozzon[at]tudelft.nl
+
+- name: Jie Zhang
+  pic: 4
+  position: Nanyang Technological University
+  email: zhangj[at]ntu.edu.sg
+
+- name: Martha Larson
+  pic: 5
+  position: Radboud University Nijmegen
+  email: m.a.larson[at]tudelft.nl
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/search?f=tweets&q=%23citrec2017&src=typd
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/hashtag/citrec2017?fref=ts
+  
 
 # Postal address (add as many lines as necessary)
 address:

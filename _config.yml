@@ -11,7 +11,7 @@ description: "ACM RecSys 2017 Workshop: International Workshop on Recommender Sy
 people:
 - name: Jie Yang
   pic: 1
-  position: Delft University of Technology
+  position: Delft University of Technology, the Netherlands
   email: j.yang-3[at]tudelft.nl
 
 
@@ -45,8 +45,9 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Teatro Sociale di Como
+  - line: Via Vincenzo Bellini, 3, 22100 Como
+  - line: CO, Italy
 
 # Build settings
 markdown: kramdown

@@ -11,28 +11,28 @@ description: "ACM RecSys 2017 Workshop: Recommender Systems for Citizens (CitRec
 people:
 - name: Jie Yang
   pic: 1
-  position: Delft University of Technology, the Netherlands
+  position: Delft University of Technology
   email: j.yang-3[at]tudelft.nl
 
 
 - name: Zhu Sun
   pic: 2
-  position: Nanyang Technological University, Singapore
+  position: Nanyang Technological University
   email: sunzhu[at]ntu.edu.sg
 
 - name: Alessandro Bozzon
   pic: 3
-  position: Delft University of Technology, the Netherlands
+  position: Delft University of Technology
   email: a.bozzon[at]tudelft.nl
 
 - name: Jie Zhang
   pic: 4
-  position: Nanyang Technological University, Singapore
+  position: Nanyang Technological University
   email: zhangj[at]ntu.edu.sg
 
 - name: Martha Larson
   pic: 5
-  position: Radboud University Nijmegen, the Netherlands
+  position: Radboud University Nijmegen
   email: m.a.larson[at]tudelft.nl
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)

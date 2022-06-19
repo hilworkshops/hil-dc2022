@@ -1,53 +1,42 @@
-url: https://yangjiera.github.io
-baseurl: /citrec2017/
+url: https://hilworkshops.github.io
+baseurl: /hil-dc2022/
 
 # Site settings
-title: CitRec2017
+title: HIL-DC2022
 email: j.yang-3@tudelft.nl
-description: "ACM RecSys 2017 Workshop: Recommender Systems for Citizens (CitRec2017)."
+description: "Human-In-the-Loop Data Curation Workshop 2022"
 
 
 # Team names, titles and social links
 people:
-- name: Jie Yang
+- name: Gianluca Demartini
   pic: 1
+  position: The University of Queensland, Australia
+  email: g.demartini[at]uq.edu.au
+
+- name: Shazia Sadiq
+  pic: 2
+  position: The University of Queensland, Australia
+  email: s.sadiq[at]]uq.edu.au
+
+- name: Jie Yang
+  pic: 3
   position: Delft University of Technology, Netherlands
   email: j.yang-3[at]tudelft.nl
 
 
-- name: Zhu Sun
-  pic: 2
-  position: Nanyang Technological University, Singapore
-  email: sunzhu[at]ntu.edu.sg
-
-- name: Alessandro Bozzon
-  pic: 3
-  position: Delft University of Technology, Netherlands
-  email: a.bozzon[at]tudelft.nl
-
-- name: Jie Zhang
-  pic: 4
-  position: Nanyang Technological University, Singapore
-  email: zhangj[at]ntu.edu.sg
-
-- name: Martha Larson
-  pic: 5
-  position: Radboud University Nijmegen, Netherlands
-  email: m.a.larson[at]tudelft.nl
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/search?f=tweets&q=%23citrec2017&src=typd
+    url: https://twitter.com/search?f=tweets&q=%23hil-dc2022&src=typd
   - title: facebook
-    url: https://www.facebook.com/hashtag/citrec2017?fref=ts
+    url: https://www.facebook.com/hashtag/hil-dc2022?fref=ts
   
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Teatro Sociale di Como
-  - line: Via Vincenzo Bellini, 3, 22100 Como
-  - line: CO, Italy
+  - line: Atlanta
+  - line: Georgia, USA
 
 # Build settings
 markdown: kramdown
